@@ -1,0 +1,24 @@
+body {
+    background-image: url('./peace.JPG');
+    background-size: cover;
+
+}
+
+#root {
+    text-align: center;
+    padding-top: 15%;
+}
+
+.btn.btn-primary.btn-lg.inspire {
+    background-color:rgb(255, 0, 187);
+}
+
+h2 {
+    color:blue;
+    font: italic;
+    font-family: fantasy;
+    font-weight: bolder;
+    background-color: aliceblue;
+    padding-top: 10px;
+    width: fit-content;
+}
