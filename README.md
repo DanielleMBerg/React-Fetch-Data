@@ -8,4 +8,4 @@ To run on your own device, download all the files (except for the README file) a
 If this were to actually exist, I think it would be cool to have a countdown component to display when the next quote would be available. Also, to have a list that stores all of the quotes already retrieved.
 
 #License
-See the attached LICENSE file.
+MIT license.
